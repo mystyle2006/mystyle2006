@@ -12,4 +12,4 @@ Test: Jest, Supertest, Cypress, Puppeteer
 
 Database: Mysql, MongoDB, DynanoDB, Redis
 
-Infra: AWS
+Infra: AWS EC2, SQS, SES, Route53, RDS, Redis, Lambda etc...
